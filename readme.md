@@ -1,6 +1,6 @@
 # Watch Quotes
 
-![Telas do aplicativo](link_da_imagem)
+![Telas do aplicativo](https://github.com/miguelloq/WatchQuotes/blob/master/watchquotes_img.png)
 
 
 # Descrição
