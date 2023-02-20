@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398980368399",
+    "project_id": "watch-quotes",
+    "storage_bucket": "watch-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398980368399:android:46b0653cc5e06e6047bb7a",
+        "android_client_info": {
+          "package_name": "com.example.watchquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398980368399-421vrr2ski4buktevebqfvt2ha1s21gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9g9jmT5KAPtyGT3cyMJ0YA7oxXvKukWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398980368399-421vrr2ski4buktevebqfvt2ha1s21gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

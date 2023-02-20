@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WatchQuotes</string>
+    <string name="Play">Play</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="quote1">...</string>
+    <string name="quote2">...</string>
+    <string name="quote3">...</string>
+    <string name="quote4">...</string>
+    <string name="typeNameMovie">Type the name of the movie</string>
+    <string name="IdontKnow">I dont know</string>
+    <string name="title">title</string>
+    <string name="genre">genre</string>
+    <string name="attempts">Attempts:</string>
+    <string name="qntAttempts">0</string>
+    <string name="playAgain">Play Again</string>
+
+</resources>
